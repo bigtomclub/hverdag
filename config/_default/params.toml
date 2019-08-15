@@ -9,7 +9,7 @@ day_night = false
 
 # Font style.
 #   Choose from `default`, `classic`, `rose`, or `mr_robot`.
-font = "default"
+font = "classic"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -103,7 +103,7 @@ map = 2
 map_api_key = ""
 latitude = "56.1583182"
 longitude = "10.1907215"
-zoom = 13
+zoom = 14
 
 ############################
 ## Plugins                ##
