@@ -34,11 +34,11 @@
   enable = true
 
 [[buttons]]
-  id = "whatsapp"
-  url = "https://web.whatsapp.com/send?text={title}%20{url}"
-  title = "WhatsApp"
+  id = "instagram"
+  url = "https://www.instagram.com/hverdagaarhus/"
+  title = "Instagram"
   icon_pack = "fab"
-  icon = "whatsapp"
+  icon = "instagram"
   enable = true
 
 [[buttons]]
@@ -47,7 +47,7 @@
   title = "Weibo"
   icon_pack = "fab"
   icon = "weibo"
-  enable = true
+  enable = false
 
 [[buttons]]
   id = "reddit"
