@@ -11,23 +11,23 @@ subtitle = ""
 weight = 5
 
 [[kaffe]]
-	id = "Josh Tenenbaum"
-	image = "CFC-BEAN.png"
+	id = "CFC-Bønner"
+	image = "CFC-BEAN.jpg"
 	position = ""
 	link = ""
 	show = true
 
 [[kaffe]]
-	id = "Noah Goodman"
-	image = "BBE-BEAN.png"
-	position = "Stanford University"
+	id = "BBE-Bønner"
+	image = "BBE-BEAN.jpg"
+	position = ""
 	link = ""
 	show = true
 
 [[kaffe]]
 	id = "Kawacom Paidha - Uganda"
-	image = "UKP-BEAN.png"
-	position = "University College London"
+	image = "UKP-BEAN.jpg"
+	position = ""
 	link = ""
 	show = true
 
