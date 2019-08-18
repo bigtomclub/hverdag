@@ -11,23 +11,23 @@ subtitle = ""
 weight = 5
 
 [[kaffe]]
-	id = "CFC-Bønner"
+	id = ""
 	image = "CFC-BEAN.jpg"
-	position = ""
+	position = "CFC-Bønner"
 	link = ""
 	show = true
 
 [[kaffe]]
-	id = "BBE-Bønner"
+	id = ""
 	image = "BBE-BEAN.jpg"
-	position = ""
+	position = "BBE-Bønner"
 	link = ""
 	show = true
 
 [[kaffe]]
-	id = "Kawacom Paidha - Uganda"
+	id = ""
 	image = "UKP-BEAN.jpg"
-	position = ""
+	position = "Kawacom Paidha - Uganda"
 	link = ""
 	show = true
 
