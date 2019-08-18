@@ -1,6 +1,6 @@
 +++
 # Kaffe
-widget = "collaborators"
+widget = "custom"
 active = true
 date = "2019-08-18"
 
@@ -10,21 +10,21 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 5
 
-[[collaborator]]
+[[kaffe]]
 	id = "Josh Tenenbaum"
 	image = "CFC-BEAN.png"
 	position = ""
 	link = ""
 	show = true
 
-[[collaborator]]
+[[kaffe]]
 	id = "Noah Goodman"
 	image = "BBE-BEAN.png"
 	position = "Stanford University"
 	link = ""
 	show = true
 
-[[collaborator]]
+[[kaffe]]
 	id = "Kawacom Paidha - Uganda"
 	image = "UKP-BEAN.png"
 	position = "University College London"
