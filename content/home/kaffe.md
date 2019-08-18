@@ -1,6 +1,6 @@
 +++
 # Kaffe
-widget = "custom"
+widget = "kaffe"
 active = true
 date = "2019-08-18"
 
