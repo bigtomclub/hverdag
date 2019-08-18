@@ -22,5 +22,3 @@ weight = 1
   # url = "./post/getting-started/"
   # label = '<i class="fa fa-download"></i> Install Now'
 +++
-
-<br>
