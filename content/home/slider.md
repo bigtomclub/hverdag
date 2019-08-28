@@ -11,14 +11,14 @@ interval = false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "300px"
+height = "330px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = ""
   content = ""
-  align = "center"  # Choose `center`, `left`, or `right`.
+  align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -29,10 +29,10 @@ height = "300px"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = ""
-  cta_url = "https://www.instagram.com/hverdagaarhus/"
-  cta_icon_pack = "fab"
-  cta_icon = "instagram"
+  #cta_label = ""
+  #cta_url = "https://www.instagram.com/hverdagaarhus/"
+  #cta_icon_pack = "fab"
+  #cta_icon = "instagram"
 
 #[[item]]
 #  title = "Left"
