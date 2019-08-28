@@ -9,7 +9,7 @@
 #  weight = 10
 
 [[main]]
-  name = "Om os"
+  name = "OM OS"
   url = "#info"
   weight = 20
 
@@ -24,12 +24,12 @@
 #  weight = 40
 
 [[main]]
-  name = "Instagram"
+  name = "INSTAGRAM"
   url = "#photos"
   weight = 40
 
 [[main]]
-  name = "Find os"
+  name = "FIND OS"
   url = "#contact"
   weight = 60
 
