@@ -7,7 +7,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Photos"
+title = "Instagram"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -16,8 +16,6 @@ weight = 60
 
 +++
 
-Vi sælger et simpelt koncept...
-
 Se mere her [instagram](https://www.instagram.com/hverdagaarhus/):
 
-{{< instagram B05_6KilcFp >}}
+{{< instagram B1thOPolfgz >}}

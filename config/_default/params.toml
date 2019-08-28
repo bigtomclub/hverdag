@@ -63,13 +63,9 @@ phone = ""
 address = "Viborgvej 21, 8000 Aarhus C"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Mandag 10:00 to 13:00<br>
-                  Tirsdag 10:00 to 13:00<br>
-                  Onsdag 10:00 to 13:00<br>
-                  Torsdag 10:00 to 13:00<br>
-                  Fredag 10:00 to 13:00<br>
-                  Lørdag 10:00 to 13:00<br>
-                  Søndag 10:00 to 13:00"""
+office_hours = """M - F 07.30 - 17.00<br>
+                  L 10.00 - 17.00<br>
+                  S LUKKET<br>"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""

@@ -1,7 +1,7 @@
 +++
 # Kaffe
 widget = "kaffe"
-active = true
+active = false
 date = "2019-08-18"
 
 title = "Kaffe"

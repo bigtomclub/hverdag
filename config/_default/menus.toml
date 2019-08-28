@@ -13,25 +13,20 @@
   url = "#info"
   weight = 20
 
-[[main]]
-  name = "Kaffe"
-  url = "#kaffe"
-  weight = 30
-
-[[main]]
-  name = "Vores produkter"
-  url = "#kaffe"
-  weight = 40
-
 #[[main]]
-#  name = "Projects"
-#  url = "#projects"
+#  name = "Kaffe"
+#  url = "#kaffe"
 #  weight = 30
 
 #[[main]]
-#  name = "Publications"
-#  url = "#featured"
+#  name = "Vores produkter"
+#  url = "#kaffe"
 #  weight = 40
+
+[[main]]
+  name = "Instagram"
+  url = "#photos"
+  weight = 40
 
 [[main]]
   name = "Find os"
