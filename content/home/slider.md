@@ -18,7 +18,7 @@ height = "330px"
 [[item]]
   title = ""
   content = ""
-  align = "left"  # Choose `center`, `left`, or `right`.
+  align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -34,14 +34,14 @@ height = "330px"
   #cta_icon_pack = "fab"
   #cta_icon = "instagram"
 
-#[[item]]
-#  title = "Left"
-#  content = "I am left aligned :smile:"
-#  align = "left"
-#
-#  overlay_color = "#555"  # An HTML color value.
-#  overlay_img = "banner.png"  # Image path relative to your `static/img/` folder.
-#  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+[[item]]
+  title = ""
+  content = ""
+  align = "left"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "hverdag.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 #[[item]]
 #  title = "Right"
