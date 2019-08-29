@@ -20,4 +20,5 @@ Hos Hverdag vil I opleve et enkelt kaffekort, da hverdagen i forvejen er fuld af
 Netop fordi kaffe ofte er et samlingspunkt for mange flere gange om dagen - vægter vi kvaliteten og bæredygtigheden højt. Derfor er al vores kaffe økologisk, pakket i CO2 neutrale poser og serveret i bæredygtige kopper, der også sælges som to-go.
 
 Vi glæder os til at byde jer velkommen hos Hverdag!
+
 Kh Amalie og Sophia
